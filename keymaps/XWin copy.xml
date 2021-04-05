@@ -14,7 +14,7 @@
   <action id="ReplaceInPath" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
