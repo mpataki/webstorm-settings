@@ -1,13 +1,8 @@
 <keymap version="1" name="XWin copy" parent="Default for XWin">
   <action id="ChangesView.ToggleCommitUi" />
-  <action id="CheckinProject" />
-  <action id="Console.Execute.Multiline" />
-  <action id="Console.SplitLine" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
-  <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="EditorSplitLine" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
@@ -25,6 +20,4 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="Terminal.SmartCommandExecution.Run" />
-  <action id="ViewSource" />
 </keymap>
