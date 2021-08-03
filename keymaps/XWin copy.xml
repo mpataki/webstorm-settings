@@ -8,9 +8,16 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
