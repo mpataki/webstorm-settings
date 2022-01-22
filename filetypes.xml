@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="openid-configuration" type="AUTO_DETECTED" />
+      <mapping pattern=".npmrc-github" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
