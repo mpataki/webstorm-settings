@@ -3,10 +3,18 @@
     <option name="FIELD_PREFIX" value="" />
     <option name="USE_PUBLIC_MODIFIER" value="true" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
